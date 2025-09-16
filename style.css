@@ -1,19 +1,19 @@
 body {
-    background-color: rgb(202, 209, 216);
+    background-color: rgb(202, 209, 216); /* muda a cor do fundo */
 }
 
 h1 {
-    text-align: center;
-    color: rgb(43, 61, 226);
+    text-align: center; /*alinha o texto no meio */
+    color: rgb(43, 61, 226); /*muda a cor da fonte*/
 }
 #p1{
     text-align: center;
 }
 .grupo {
     background-color: white;
-    padding: 6px;
-    border-radius: 20px;
-    margin: 15px;
+    padding: 6px; /*aumenta o espaçamento das coisas de dentro do article em relção a borda*/
+    border-radius: 20px; /*arredonda a borda */
+    margin: 15px; /* aumenta o espaçamento de um article pro outro */
 }
 h3 {
     color: brown;
